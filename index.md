@@ -1,4 +1,4 @@
-# Jasminko Šarac
+# Bebanic Vahidin
 
 Jasminko Šarac (rođen 15. maja 1961) bosanskohercegovački je pisac. Studij sociologije završio je na Fakultetu političkih nauka u Sarajevu. Radio je u industriji konfekcije Stolac (INKOS). Za vrijeme rata u Bosni i Hercegovini (1992–1995) proveo je devet mjeseci u logorima tokom rata
 
