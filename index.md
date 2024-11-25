@@ -19,3 +19,15 @@ ČUDO STVARANJA | [Download](https://bebanicvahidin.github.io/knjige/cudo-stvar
 <!-- Global site tag (gtag.js) - Google Analytics -->
 
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-EZHQ96VNWD"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-EZHQ96VNWD');
+</script>
+
+
+
