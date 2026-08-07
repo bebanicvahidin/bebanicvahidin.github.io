@@ -11,6 +11,7 @@ ČUDO STVARANJA | [Download](https://bebanicvahidin.github.io/knjige/cudo-stvar
 Sai Baba | [Download](https://bebanicvahidin.github.io/knjige/SAI BABA final.pdf)
 Knjiga o Prijestolju Božijem (Mulla Sadra Sirazi) | [Download](https://bebanicvahidin.github.io/knjige/Knjiga o Prijestolju Božijem.pdf)
 Tuhafu Al-Uqul (Remek-djelo znanja, mudrosti i propovjedi Poslanikove porodice a.s) | [Download](https://bebanicvahidin.github.io/knjige/Tuhafu_Al_Uqul_2026.pdf)
+Istrazivanje Alevizma | [Download]([https:///](https://bebanicvahidin.github.io/knjige/Istrazivanje_ Alevizma.pdf)
 
 
 <!-- ## Google Drive 
