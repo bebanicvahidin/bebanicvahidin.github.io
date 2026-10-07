@@ -12,6 +12,7 @@ Sai Baba | [Download](https://bebanicvahidin.github.io/knjige/SAI BABA final.pdf
 Knjiga o Prijestolju Božijem (Mulla Sadra Sirazi) | [Download](https://bebanicvahidin.github.io/knjige/Knjiga o Prijestolju Božijem.pdf)
 Tuhafu Al-Uqul (Remek-djelo znanja, mudrosti i propovjedi Poslanikove porodice a.s) | [Download](https://bebanicvahidin.github.io/knjige/Tuhafu_Al_Uqul_2026.pdf)
 Istrazivanje Alevizma | [Download](https://bebanicvahidin.github.io/knjige/Istrazivanje_ Alevizma.pdf)
+Zapovjed Pravog Puta <br/> BUYRUK HAK MUHAMED ALI | [Download](https://bebanicvahidin.github.io/knjige/Zapovijed-Pravog-Puta-BUYRUK-L.pdf)
 
 
 <!-- ## Google Drive 
